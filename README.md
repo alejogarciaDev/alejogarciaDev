@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
+  Hi, I'm Alejo Garcia
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -55,10 +55,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 #### 🔧 Data Base
-![PostgreSQL]()
-
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,11 +68,41 @@
 </p>
 ---
 ## 🚀 Proyectos
-## 🚀 Proyectos
 
 ---
 
 ### 🧾 Sistema Buffet Escolar
+
+<div align="center">
+<table>
+<tr>
+<td width="40%">
+<img src="https://i.imgur.com/tuimagen.png" width="100%" />
+</td>
+
+<td width="60%">
+
+📌 **Descripción:**  
+Sistema web para gestionar pedidos de un buffet escolar de forma simple y rápida.
+
+⚙️ **Tecnologías:**  
+HTML, CSS, JavaScript
+
+🚀 **Características:**
+- Gestión de pedidos
+- Interfaz simple
+- Adaptado a celulares
+
+🔗 **Links:**
+- [Ver repositorio](https://github.com/TUUSUARIO/tu-repo)
+- [Ver demo](https://tupagina.com)
+
+</td>
+</tr>
+</table>
+</div>
+
+### 🧾 MidTower
 
 <div align="center">
 <table>
