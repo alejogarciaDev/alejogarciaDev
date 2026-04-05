@@ -51,6 +51,7 @@ I'm a final-year student at a technical high school with a focus on computer sci
 #### 🖥️ Frameworks
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
 #### 📚 Libraries
