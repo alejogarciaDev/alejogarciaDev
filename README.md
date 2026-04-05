@@ -59,7 +59,43 @@
 #### 🔧 Data Base
 ![PostgreSQL]()
 ---
+## 🚀 Proyectos
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Nombre del Proyecto</h3>
+<div align="center">  
+<a href="LINK_DEL_REPO" target="_blank">
+<img src="https://i.imgur.com/imagen.png" width="400" alt="proyecto"/>
+</a>
+<p>
+<a href="LINK_DEL_REPO" target="_blank">
+<img src="https://img.shields.io/badge/VER%20CODIGO-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Otro Proyecto</h3>
+<div align="center">  
+<a href="LINK_DEL_REPO" target="_blank">
+<img src="https://i.imgur.com/imagen2.png" width="400" alt="proyecto"/>
+</a>
+<p>
+<a href="LINK_DEL_REPO" target="_blank">
+<img src="https://img.shields.io/badge/VER%20CODIGO-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</div>
+
+</td>
+</tr>
+</table>
 
 
 ---
