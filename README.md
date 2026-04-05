@@ -67,43 +67,42 @@
 </p>
 ---
 ## 🚀 Proyectos
+## 🚀 Proyectos
 
+---
+
+### 🧾 Sistema Buffet Escolar
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-<h3 align="center">Nombre del Proyecto</h3>
-<div align="center">  
-<a href="LINK_DEL_REPO" target="_blank">
-<img src="https://i.imgur.com/imagen.png" width="400" alt="proyecto"/>
-</a>
-<p>
-<a href="LINK_DEL_REPO" target="_blank">
-<img src="https://img.shields.io/badge/VER%20CODIGO-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-</div>
-
+<td width="40%">
+<img src="https://i.imgur.com/tuimagen.png" width="100%" />
 </td>
 
-<td width="50%">
+<td width="60%">
 
-<h3 align="center">Otro Proyecto</h3>
-<div align="center">  
-<a href="LINK_DEL_REPO" target="_blank">
-<img src="https://i.imgur.com/imagen2.png" width="400" alt="proyecto"/>
-</a>
-<p>
-<a href="LINK_DEL_REPO" target="_blank">
-<img src="https://img.shields.io/badge/VER%20CODIGO-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-</div>
+📌 **Descripción:**  
+Sistema web para gestionar pedidos de un buffet escolar de forma simple y rápida.
+
+⚙️ **Tecnologías:**  
+HTML, CSS, JavaScript
+
+🚀 **Características:**
+- Gestión de pedidos
+- Interfaz simple
+- Adaptado a celulares
+
+🔗 **Links:**
+- [Ver repositorio](https://github.com/TUUSUARIO/tu-repo)
+- [Ver demo](https://tupagina.com)
 
 </td>
 </tr>
 </table>
+</div>
 
+---
 
 ---
 
