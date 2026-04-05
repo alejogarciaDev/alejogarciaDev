@@ -89,6 +89,49 @@ I'm a final-year student at a technical high school with a focus on computer sci
 
 ---
 
+## 🚀 Projects
+
+---
+
+### 🎮 MidTower
+
+<div align="center">
+<table>
+<tr>
+<td width="40%">
+<img src="https://i.imgur.com/TU_IMAGEN.png" width="100%" />
+</td>
+
+<td width="60%">
+
+📌 **Description:**  
+MidTower is a web platform focused on League of Legends guides, builds, and player resources.  
+It aims to help players improve their gameplay with clear and useful information.
+
+🚀 **Current Features:**
+- Champion guides
+- Builds and recommendations
+- Clean and simple UI
+
+🧠 **Planned Features:**
+- Social network for players
+- User profiles
+- Community interactions (posts, comments, likes)
+
+⚙️ **Technologies:**
+HTML, CSS, JavaScript *(update later with backend)*
+
+🔗 **Links:**
+- [View Repository](#)
+- [Live Demo](https://midtower.io)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ### 🧾 Sistema Buffet Escolar
 
 <div align="center">
@@ -112,44 +155,15 @@ HTML, CSS, JavaScript
 - Adaptado a celulares
 
 🔗 **Links:**
-- [Ver repositorio](https://github.com/TUUSUARIO/tu-repo)
-- [Ver demo](https://tupagina.com)
+- [Ver repositorio](#)
+- [Ver demo](#)
 
 </td>
 </tr>
 </table>
 </div>
 
-### 🧾 MidTower
 
-<div align="center">
-<table>
-<tr>
-<td width="40%">
-<img src="https://i.imgur.com/tuimagen.png" width="100%" />
-</td>
-
-<td width="60%">
-
-📌 **Descripción:**  
-Sistema web para gestionar pedidos de un buffet escolar de forma simple y rápida.
-
-⚙️ **Tecnologías:**  
-HTML, CSS, JavaScript
-
-🚀 **Características:**
-- Gestión de pedidos
-- Interfaz simple
-- Adaptado a celulares
-
-🔗 **Links:**
-- [Ver repositorio](https://github.com/TUUSUARIO/tu-repo)
-- [Ver demo](https://tupagina.com)
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
