@@ -89,9 +89,7 @@ I'm a final-year student at a technical high school with a focus on computer sci
 
 ---
 
-## 🚀 Projects
 
----
 
 ### 🎮 MidTower
 
@@ -165,7 +163,6 @@ HTML, CSS, JavaScript
 
 
 
----
 
 ---
 
