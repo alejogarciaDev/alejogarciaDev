@@ -173,7 +173,7 @@ HTML, CSS, JavaScript
 <table>
 <tr>
 <td width="40%">
-<img src="https://imgur.com/a/F1r3pHB" width="100%" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/F1r3pHB"  ><a href="//imgur.com/a/F1r3pHB">mi tecnica</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </td>
 
 <td width="60%">
