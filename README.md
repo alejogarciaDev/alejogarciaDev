@@ -97,7 +97,7 @@ I'm a final-year student at a technical high school with a focus on computer sci
 <table>
 <tr>
 <td width="40%">
-<img src="https://i.imgur.com/TU_IMAGEN.png" width="100%" />
+<img src="https://imgur.com/a/okQyN7P" />
 </td>
 
 <td width="60%">
@@ -165,6 +165,47 @@ HTML, CSS, JavaScript
 
 
 ---
+---
+
+### 🧾 Sistema de Gestion Institucional 
+
+<div align="center">
+<table>
+<tr>
+<td width="40%">
+<img src="https://imgur.com/a/V6OTjLy" width="100%" />
+</td>
+
+<td width="60%">
+
+📌 **Descripción:**  
+Sistema web para gestionar pedidos de un buffet escolar de forma simple y rápida.
+
+⚙️ **Tecnologías:**  
+HTML, CSS, JavaScript, Flutter, Python, PosgreSql
+
+🚀 **Características:**
+- Gestión de pedidos del pañol
+- gestion de legajos
+- gestion de alumnos y personal de la institucion
+- gestion de biblioteca
+- Interfaz simple
+- Adaptado a celulares
+
+🔗 **Links:**
+- [Ver repositorio](#)
+- [Ver demo](https://mitecnica.ar/#/login)
+
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+---
+
 
 ### 🔗 &nbsp;Contact Me
 
