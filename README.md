@@ -173,7 +173,7 @@ HTML, CSS, JavaScript
 <a href="https://www.linkedin.com/in/alejo-garcia-5101b6305/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img alt="Instagram" src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 </div>
 
 
