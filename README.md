@@ -97,7 +97,7 @@ I'm a final-year student at a technical high school with a focus on computer sci
 <table>
 <tr>
 <td width="40%">
-<img src="https://imgur.com/a/okQyN7P" />
+<img src="https://imgur.com/a/okQyN7P.png" />
 </td>
 
 <td width="60%">
@@ -173,7 +173,7 @@ HTML, CSS, JavaScript
 <table>
 <tr>
 <td width="40%">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/F1r3pHB"  ><a href="//imgur.com/a/F1r3pHB">mi tecnica</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/F1r3pHB.png" width="100%" />>
 </td>
 
 <td width="60%">
