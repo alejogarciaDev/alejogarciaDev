@@ -173,7 +173,7 @@ HTML, CSS, JavaScript
 <table>
 <tr>
 <td width="40%">
-<img src="https://imgur.com/a/V6OTjLy" width="100%" />
+<img src="https://imgur.com/a/F1r3pHB" width="100%" />
 </td>
 
 <td width="60%">
